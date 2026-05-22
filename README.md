@@ -1,8 +1,8 @@
 # Hi 👋, I'm Adewunmi Quadri Ayodele
 
-## Frontend Developer • React Developer • React Native Developer
+## Frontend Developer 
 
-I build modern, scalable, high-performance web and mobile applications with clean architecture, beautiful user experiences, and production-ready frontend systems.
+Frontend Developer focused on building modern, scalable, and high-performance web applications with exceptional user experiences. Skilled in React, Next.js, TypeScript, Tailwind CSS, and modern frontend ecosystems, with strong expertise in responsive UI development, frontend architecture, performance optimization, and testing. Passionate about transforming ideas into polished, production-ready digital products.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />

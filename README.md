@@ -228,28 +228,6 @@ Modern blogging platform built for content creation, management, and publishing.
 
 ---
 
-# 🌍 Connect With Me
-
-<p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="https://twitter.com/YOUR_TWITTER" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="30" width="40" />
-</a>
-
-<a href="https://portfolio-link.com" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" alt="portfolio" height="30" width="40" />
-</a>
-</p>
-
----
-
 # 📫 Contact Information
 
 * 📧 Email: [Quadridiya@gmail.com](mailto:Quadridiya@gmail.com)

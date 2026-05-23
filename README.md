@@ -171,7 +171,7 @@ Modern NFT showcase website with clean visuals and engaging user experience.
 
 ## 🤖 AI-CHAT
 
-🔗 [https://aichat.vercel.app](https://aichat.vercel.app)
+🔗 [https://aichat.vercel.app](https://moroundiya-aichat.vercel.app/)
 
 AI-powered chatbot application integrated with Groq inference API for fast and intelligent responses.
 
@@ -183,7 +183,7 @@ AI-powered chatbot application integrated with Groq inference API for fast and i
 
 ## 🌍 KINDCONNECT — SOCIAL PLATFORM
 
-🔗 [https://kindconnect.vercel.app](https://kindconnect.vercel.app)
+🔗 [https://kindconnect.vercel.app](https://kindconnect.vercel.app/)
 
 Social media platform designed around positivity, connection, and healthy digital interactions.
 
@@ -195,7 +195,7 @@ Social media platform designed around positivity, connection, and healthy digita
 
 ## 📊 FINANCE DASHBOARD
 
-🔗 [https://finance-dashboard.vercel.app](https://finance-dashboard.vercel.app)
+🔗 [https://finance-dashboard.vercel.app](https://moroundiya-finance-dashboard.vercel.app)
 
 Clean and modern finance management dashboard for tracking spending, budgets, and financial goals.
 

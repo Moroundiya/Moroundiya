@@ -132,7 +132,7 @@
 
 ## 🧾 INVOICENOW — INVOICING APP
 
-🔗 [https://invoicenow.vercel.app](https://invoicenow.vercel.app) <!-- TODO: replace with your real link -->
+🔗 [https://createinvoicenow.vercel.app](https://createinvoicenow.vercel.app/) <!-- TODO: replace with your real link -->
 
 Invoicing app that helps freelancers and small businesses create, send, and track invoices quickly. <!-- TODO: edit this description -->
 

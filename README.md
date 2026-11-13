@@ -1,19 +1,19 @@
 # Hi 👋, I'm Adewunmi Quadri Ayodele
 
-Frontend Developer focused on building modern, scalable, and high-performance web applications with exceptional user experiences. Skilled in React, Next.js, TypeScript, Tailwind CSS, and modern frontend ecosystems, with strong expertise in responsive UI development, frontend architecture, performance optimization, and testing. Passionate about transforming ideas into polished, production-ready digital products.
+**Frontend Developer & Mobile App Developer (React Native and Expo)** focused on building modern, scalable, and high-performance web and mobile applications with exceptional user experiences. Skilled in React, Next.js, React Native, Expo, TypeScript, Tailwind CSS, and modern frontend ecosystems, with strong expertise in responsive UI development, cross-platform mobile apps, frontend architecture, performance optimization, and testing. Passionate about transforming ideas into polished, production-ready digital products.
 
 ---
 
 # 🚀 About Me
 
 * 💻 Frontend Developer with 4+ years of hands-on experience
+* 📱 Mobile App Developer building cross-platform iOS and Android apps with React Native and Expo
 * ⚛️ Specialized in React.js, Next.js, TypeScript, and modern frontend ecosystems
-* 📱 Currently expanding into React Native mobile development
 * 🎨 Passionate about building clean, polished, and intuitive user interfaces
 * ⚡ Strong focus on performance optimization and scalable frontend architecture
 * 🧪 Experienced with Unit Testing and End-to-End Testing workflows
 * 🌍 Open to Remote, Hybrid, and On-site opportunities
-* 🤝 Available for freelance projects, collaborations, and frontend roles
+* 🤝 Available for freelance projects, collaborations, and frontend or mobile roles
 
 ---
 
@@ -33,8 +33,15 @@ Frontend Developer focused on building modern, scalable, and high-performance we
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge\&logo=react-query\&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-000000?style=for-the-badge\&logo=react)
+
+## Mobile Development
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge\&logo=expo\&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge\&logo=expo\&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge\&logo=apple\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 
 ## Styling & Animation
 
@@ -83,15 +90,15 @@ Frontend Developer focused on building modern, scalable, and high-performance we
 
 ---
 
-## Freelance Frontend Developer
+## Freelance Frontend & Mobile App Developer
 
-🗓 Jan 2024 – Oct 2025
+🗓 Jan 2024 – Present
 
 * Designed and shipped 6+ frontend and full-stack-ready applications
 * Built projects spanning chat apps, AI platforms, dashboards, blogs, and e-commerce
+* Built cross-platform mobile apps with React Native, Expo, Expo Router, and NativeWind
 * Deepened expertise in Next.js App Router, Supabase, WebSockets, and Framer Motion
 * Maintained active developer presence on LinkedIn and X by sharing technical builds
-* Started expanding into React Native cross-platform mobile development
 
 ---
 
@@ -111,7 +118,7 @@ Frontend Developer focused on building modern, scalable, and high-performance we
 
 * 🚀 4+ years of frontend development experience
 * ⚡ Built scalable production-ready frontend applications
-* 📱 Expanding into React Native mobile app development
+* 📱 Building cross-platform mobile apps with React Native and Expo
 * 🎨 Strong UI/UX implementation and frontend architecture skills
 * 🧪 Experienced with testing strategies including Unit & E2E testing
 * 🔥 Built real-time chat applications using WebSockets
@@ -122,6 +129,25 @@ Frontend Developer focused on building modern, scalable, and high-performance we
 ---
 
 # 📌 Featured Projects
+
+## 🧾 INVOICENOW — INVOICING APP
+
+🔗 [https://invoicenow.vercel.app](https://invoicenow.vercel.app) <!-- TODO: replace with your real link -->
+
+Invoicing app that helps freelancers and small businesses create, send, and track invoices quickly. <!-- TODO: edit this description -->
+
+### Features <!-- TODO: edit to match what you built -->
+
+* Create and customize professional invoices
+* Client and payment tracking
+* Downloadable and shareable invoices
+* Responsive design
+
+### Stack <!-- TODO: edit to match what you used -->
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+---
 
 ## 💬 TALKIE CHATAPP
 
@@ -171,7 +197,7 @@ Modern NFT showcase website with clean visuals and engaging user experience.
 
 ## 🤖 AI-CHAT
 
-🔗 [https://aichat.vercel.app](https://moroundiya-aichat.vercel.app/)
+🔗 [https://moroundiya-aichat.vercel.app](https://moroundiya-aichat.vercel.app/)
 
 AI-powered chatbot application integrated with Groq inference API for fast and intelligent responses.
 
@@ -195,7 +221,7 @@ Social media platform designed around positivity, connection, and healthy digita
 
 ## 📊 FINANCE DASHBOARD
 
-🔗 [https://finance-dashboard.vercel.app](https://moroundiya-finance-dashboard.vercel.app)
+🔗 [https://moroundiya-finance-dashboard.vercel.app](https://moroundiya-finance-dashboard.vercel.app)
 
 Clean and modern finance management dashboard for tracking spending, budgets, and financial goals.
 
@@ -220,6 +246,7 @@ Modern blogging platform built for content creation, management, and publishing.
 # 🎯 What I Focus On
 
 * Building scalable frontend architectures
+* Building polished cross-platform mobile apps with React Native and Expo
 * Crafting beautiful and intuitive user experiences
 * Performance optimization and accessibility
 * Responsive and cross-platform development
@@ -233,7 +260,7 @@ Modern blogging platform built for content creation, management, and publishing.
 * 📧 Email: [Quadridiya@gmail.com](mailto:Quadridiya@gmail.com)
 * 🌍 Portfolio: moroundiya-portfolio.vercel.app
 * 📍 Lagos, Nigeria
-* 💼 Open to frontend roles, freelance gigs, and collaborations
+* 💼 Open to frontend and mobile roles, freelance gigs, and collaborations
 
 ---
 
